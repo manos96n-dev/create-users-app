@@ -2,4 +2,4 @@
 
 # create-users-app
 
-![Alt text](/create-users-app.png?raw=true "Optional Title")
+![Screenshot](./create-users-app.png?raw=true "Optional Title")
